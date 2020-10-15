@@ -158,5 +158,3 @@ This project is inspired from many other similar projects.
 
 - [gatsby-theme-blog-with-github](https://github.com/mddanishyusuf/gatsby-theme-blog-with-github)
 - [utterances](https://github.com/utterance/utterances)
-
-

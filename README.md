@@ -29,7 +29,6 @@
 :white_check_mark: Instant Effects on Blog when changing github issues \
 :white_check_mark: Beautiful blockquote   
 
-
 ## :link: Live Demo
 
 Here's a [live demo](https://saadpasta.github.io/react-blog-github/#/)

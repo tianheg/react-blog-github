@@ -1,6 +1,6 @@
 name: Build and Deploy
 env:
-  CI: true
+  CI: false
 on:
   push:
     branches:

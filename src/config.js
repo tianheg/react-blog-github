@@ -1,6 +1,6 @@
 export const config = {
   // Your Github Converted Token To Know How To Get Your Token Look at Readme.md
-  githubConvertedToken: "OTAzNWFlODExMWExNWFhZGU4ZjhjNjZlYjhkYzE2ZThiNWM5N2NkOQ==",
+  githubConvertedToken: "YzBlM2FmYmVjODNmZGYxMTUzYTE3ZDFjYzQzODZlZTBjZDZlOTNjNA==",
 
   // Your Github UserName
   githubUserName: "Gaotianhe",
@@ -10,7 +10,7 @@ export const config = {
 
   // Set it to true if you have a Github app to add to this project
   // and fill the client ID & secret
-  enableOAuth: true,
+  enableOAuth: false,
   OAuthClientID: 'Iv1.5659afab7aa99c78',
   OAuthSecret: '01c5deffaabf6735126b79818a37f57f8be82ce0',
 
@@ -18,7 +18,7 @@ export const config = {
   title : "Issuance" ,
 
   // Your Personal Blog Subtitle
-  subtitle : "Software Developer",
+  subtitle : "Study how to use GitHub issues",
 
   // Header customization
   header: {

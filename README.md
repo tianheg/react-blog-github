@@ -2,8 +2,6 @@
   React Blog 
 </h1>
 
-
-
 <h2 align="center">
   React + Github Issues 👉 Your Personal Blog 🔥 
 </h2>

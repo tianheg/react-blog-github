@@ -12,12 +12,6 @@
   React Blog is a personal blog system build on React that helps you create your own personal blog using Github Issues  
 </p>
 
-<p align="center"> 
-  <kbd>
-<img src="src/logo.png"></img>
-  </kbd>
-</p>
-
 ---
 
 ## :fire: Features

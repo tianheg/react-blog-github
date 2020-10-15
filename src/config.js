@@ -1,9 +1,9 @@
 export const config = {
   // Your Github Converted Token To Know How To Get Your Token Look at Readme.md
-  githubConvertedToken: "MzM2N2YxZDRjNDk5MmQ4MGVjNzQwYmM5Y2FlZWYyNDE0ZGQ4NWFiYQ==",
+  githubConvertedToken: "OTAzNWFlODExMWExNWFhZGU4ZjhjNjZlYjhkYzE2ZThiNWM5N2NkOQ==",
 
   // Your Github UserName
-  githubUserName: "saadpasta",
+  githubUserName: "Gaotianhe",
 
   // Your Github Repo Name Where You Have your issues as Blog
   githubRepo: "react-blog-github",

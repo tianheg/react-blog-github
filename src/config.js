@@ -3,7 +3,7 @@ export const config = {
   githubConvertedToken: "YzBlM2FmYmVjODNmZGYxMTUzYTE3ZDFjYzQzODZlZTBjZDZlOTNjNA==",
 
   // Your Github UserName
-  githubUserName: "Gaotianhe",
+  githubUserName: "rbew",
 
   // Your Github Repo Name Where You Have your issues as Blog
   githubRepo: "react-blog-github",
